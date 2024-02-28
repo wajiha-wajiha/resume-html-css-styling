@@ -1,0 +1,27 @@
+/* Apply CSS styling here */
+header {
+    text-align: center;
+}
+
+h1 {
+    color: #333; /* Dark grey color */
+}
+
+h3 {
+    font-size: 1.5em; /* Larger font size */
+    margin-bottom: 10px; /* Add some bottom margin */
+}
+
+ul {
+    list-style-type: none; /* Remove bullets from list */
+    padding: 0; /* Remove default padding */
+}
+
+li {
+    margin-bottom: 5px; /* Add some bottom margin to list items */
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px; /* Add some top margin */
+}
